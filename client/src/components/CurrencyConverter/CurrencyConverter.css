@@ -1,0 +1,32 @@
+.paper {
+    width: 1000px;
+    height: 300px;
+    /* background: linear-gradient(rgb(0, 187, 239), rgb(36, 36, 202)); */
+    padding-top: 20px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.paper h3 {
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0px 1px 5px black;
+    margin-bottom: 20px;
+}
+
+.paper div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.dropdown {
+    width: 130px;
+}
+
+.currency-submit-button {
+    margin-top: 20px;
+}
+.currency-submit-button:hover {
+    background-color: red;
+}

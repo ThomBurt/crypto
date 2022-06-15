@@ -1,0 +1,1 @@
+https://www.simoahava.com/gtm-tips/get-latest-exchange-rates-client-side-conversions/?utm_source=exchangerate.host
